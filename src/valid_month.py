@@ -27,3 +27,10 @@ def valid_month(month):
         return None
     
 print valid_month("January")
+
+#another way
+#def valid_month(month):
+#    if month:
+#        cap_month = month.capitalize()
+#        if cap_month in months:
+#            return cap_month
