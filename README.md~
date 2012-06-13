@@ -26,21 +26,21 @@
 			3)
 		</td>
 		<td>
-			find_last_occurance.py
+			email-regex.py
 		</td>
 		<td>
-			finds the last occurance of a target string in a source string
+			parses the string passed and outputs the username and domain
 		</td>
 	</tr>
 	<tr>
 		<td>
-			4)
+			2)
 		</td>
 		<td>
-			multiplication_table.py
+			email-regex.py
 		</td>
 		<td>
-			Take as input a number and print all the multiplications from 1 upto that number
+			parses the string passed and outputs the username and domain
 		</td>
 	</tr>
 </table>
