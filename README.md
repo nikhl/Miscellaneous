@@ -18,7 +18,7 @@
 			email-regex.py
 		</td>
 		<td>
-			parses the string passed and outputs the username and domain
+			parses the string outputs the username and domain
 		</td>
 	</tr>
 	<tr>
